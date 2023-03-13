@@ -1,0 +1,7 @@
+.Renviron
+.ssh
+data/
+archive/
+draft/
+.Rhistory
+.Rdata
